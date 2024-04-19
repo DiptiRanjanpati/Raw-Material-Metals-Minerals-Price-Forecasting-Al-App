@@ -51,3 +51,24 @@ The dataset has missing values, which are represented by empty cells.
 
 The dataset was used for a forecasting project that utilized various models, including ARIMA, SARIMA, LSTM, RNN, STL, Random Forest Regressor, Support Vector Classifier (SVC), Exponential, and Multiplicative Seasonality.
 
+
+
+# Business Problem:
+
+The business problem at hand is the unpredictable fluctuation in the prices of raw materials (Metals & Minerals), negatively impacting the cost structure and inventory management.
+
+# Business Objectives:
+
+Minimize procurement costs, maximize profitability, and enhance competitiveness through efficient management of raw material (metals & minerals) sourcing and pricing strategies within the global market for mission-critical engineered solutions.
+
+# Business Constraints:
+
+Minimize the impact of price volatility on production costs and optimize procurement strategies to ensure stable and affordable sourcing of raw materials (Metals & Minerals) for its engineered solutions.
+
+# Business success criteria:
+
+To optimize procurement strategies and reduced production costs by 10%
+
+# Economic success criteria:
+
+To achieve cost savings in raw material procurement and inventory management at least by 20%(Based on the functionality discussion and current proceedings of procurement of raw materials)
